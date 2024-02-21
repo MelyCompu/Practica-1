@@ -1,0 +1,12 @@
+h1{color: lightcoral; /*poner color*/
+    text-align: center;} /*alinear texto*/
+*{margin: 0; /*margen para acomodar el texto en la pantalla*/
+padding: 0; /* separa el margin del texto*/
+background-color: rgb(247, 229, 232);} /*Color de fondo*/
+h2{color: palevioletred; 
+    background-color: pink;}
+strong{color: rgb(233, 155, 168);}
+em{color: lightcoral;} /*em es para poner cursiva*/
+p{text-align: justify; 
+    text-indent: 30px; /*sirve para poner negritas en el texto*/
+font-size: 20px;} /*tamaño de letra*/
